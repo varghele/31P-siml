@@ -3,13 +3,16 @@
 
 In ```notebook``` you will find the quick and dirty jupyter notebook version. It if faster to work with if you know what you are doing.
 
+
 For ```standard```:
 Get the spectrum you want to simulate from TopSpin and save it as ```31P_INP``` in the standard folder.
+
 
 Next change ```settings.txt``` to fit your spectrometer. Values for 300/600/750MHz are in there.
 
 Now change the values in ```parameters.txt```. You can simulate up to two different components.
 The parameters are:
+
 
 `LB(axi/hex/iso)(1/2)`  :  this is the LB(line broadening) applied to the simulated FID of the phase of each component
 
