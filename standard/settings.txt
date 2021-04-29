@@ -1,0 +1,9 @@
+###SPECTRUM PARAMETERS
+#w_larmor=121.495 ###300MHz
+#w_larmor=242.938 ###600MHz
+#w_larmor=303.659 ###750MHz
+#DW=0.000001 ###300MHz
+#DW=0.000010 ###600MHz
+#DW=0.000005 ###750MHz
+w_larmor	242.938
+DW	0.000010

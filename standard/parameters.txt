@@ -1,0 +1,30 @@
+###PARAMETERS
+LBaxi_1	770
+LBaxi_2	0
+LBhex_1	300
+LBhex_2	0
+LBiso_1	300
+LBiso_2	0
+
+csa1	44
+csa2	0
+
+c1	1.0
+a1	1.1
+c2	1.0
+a2	0.99
+
+axi1	1
+axi2	0
+hex1	0
+hex2	0
+iso1	0
+iso2	0
+
+drift1	0
+drift2	0
+plotdrift	0
+isoshift1	0
+isoshift2	0
+
+SHOW	1
