@@ -31,7 +31,7 @@ The parameters are:\
 \
 \
 The program will produce an ouput called `data_31P_OUT`. There you will find four TAB separated columns, that have all the data for re-plotting. The columns are in the following order:\
-X_simulated    Y_simulated    X_real    Y_real\
+X_simulated&nbsp;&nbsp;&nbsp;&nbsp;Y_simulated&nbsp;&nbsp;&nbsp;&nbsp;X_real&nbsp;&nbsp;&nbsp;&nbsp;Y_real\
 \
 Good Luck!\
 -V
