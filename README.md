@@ -28,3 +28,6 @@ The parameters are:\
 `isoshift(1/2)`  :  shift of the isotropic peaks if that has occured\
 \
 `SHOW`  :  whether you want the matplotlib widget to pop out at every run of the program\
+\
+Good Luck!\
+-V
